@@ -1,0 +1,42 @@
+[
+  {
+    "id": 1,
+    "nombre": "Skull Rezado",
+    "url": "https://raw.githubusercontent.com/TRospina/FondsdeMvles/main/Skull_Rezado.jpg"
+  },
+  {
+    "id": 2,
+    "nombre": "Observaciones",
+    "url": "https://raw.githubusercontent.com/TRospina/FondsdeMvles/main/Observaciones.jpg"
+  },
+  {
+    "id": 3,
+    "nombre": "Voces de Precaución",
+    "url": "https://raw.githubusercontent.com/TRospina/FondsdeMvles/main/Voces_De_Precaucion.jpg"
+  },
+  {
+    "id": 4,
+    "nombre": "Fin del Mundo",
+    "url": "https://raw.githubusercontent.com/TRospina/FondsdeMvles/main/Fin_Del_Mundo.jpg"
+  },
+  {
+    "id": 5,
+    "nombre": "División",
+    "url": "https://raw.githubusercontent.com/TRospina/FondsdeMvles/main/Division.jpg"
+  },
+  {
+    "id": 6,
+    "nombre": "Skull",
+    "url": "https://raw.githubusercontent.com/TRospina/FondsdeMvles/main/Skull.jpg"
+  },
+  {
+    "id": 7,
+    "nombre": "Vision",
+    "url": "https://raw.githubusercontent.com/TRospina/FondsdeMvles/main/Vision.jpg"
+  },
+  {
+    "id": 8,
+    "nombre": "La Santa Protectora",
+    "url": "https://raw.githubusercontent.com/TRospina/FondsdeMvles/main/La_Santa_Protectora.jpg"
+  }
+]
